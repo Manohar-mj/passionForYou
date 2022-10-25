@@ -2,7 +2,7 @@
  
 
 <h1>Azure Link</h1>
-#Azure Link https://red-stone-0de964a10.2.azurestaticapps.net/
+#https://red-stone-0de964a10.2.azurestaticapps.net/
 
 
 
